@@ -1,0 +1,20 @@
+.searchercontainer{
+    background-color: rgb(54, 69, 77);
+    min-height: 40px;
+    width: 435px;
+    color:rgb(177, 179, 181);
+    font-weight: 500;
+    font-size: large;
+    padding-top: 12px;
+    padding-left: 20px;
+    } 
+.searcherbox{
+    background-color: rgb(255, 253, 253);
+    height: 25px;
+    width: 400px;
+    color:rgb(177, 179, 181);
+    font-weight: 250;
+    font-size: medium;
+    padding-top: 1px;
+    padding-left: 5px;
+    } 

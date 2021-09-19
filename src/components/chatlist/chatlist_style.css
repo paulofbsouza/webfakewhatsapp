@@ -1,0 +1,42 @@
+.chatlistcontainer{
+    background-color: rgb(128, 138, 143);
+    min-height: 430px;
+    color:rgb(177, 179, 181);
+    font-weight: 100;
+    font-size: large;
+    } 
+.chatlistbox1{
+    height: 85px;
+    width: 455px;
+    background-color:rgb(120, 130, 140);
+    font-weight: 50;
+    font-size: small;
+    } 
+    .chatlistbox2{
+        height: 85px;
+        width: 455px;
+        background-color:rgb(120, 130, 140);
+        font-weight: 50;
+        font-size: small;
+        } 
+        .chatlistbox3{
+            height: 85px;
+            width: 455px;
+            background-color:rgb(120, 130, 140);
+            font-weight: 50;
+            font-size: small;
+            } 
+            .chatlistbox4{
+                height: 85px;
+                width: 455px;
+                background-color:rgb(120, 130, 140);
+                font-weight: 50;
+                font-size: small;
+                } 
+                .chatlistbox5{
+                    height: 85px;
+                    width: 455px;
+                    background-color:rgb(120, 130, 140);
+                    font-weight: 50;
+                    font-size: small;
+                    } 
